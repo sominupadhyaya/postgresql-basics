@@ -38,8 +38,8 @@ every row that is:
 
 -- SELECTING SAME ROW WITH MULTIPLE ATTRIBUTES
 
-select * from users
-where first_name = 'person1' and id = 1
+-- select * from users
+-- where first_name = 'person1' and id = 1
 
 -- which returns :
--- person1	person	18	person1@gmail.com
+-- 1 person1	person	18	person1@gmail.com
