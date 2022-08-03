@@ -13,4 +13,6 @@
 ## Some general things:
  - You must know how to create a database
 
- - You must have idea about psql shell,etc
+ - You must know the theory behind these things like keys, etc
+
+- You must have idea about psql shell,etc
