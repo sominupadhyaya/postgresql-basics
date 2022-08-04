@@ -1,9 +1,9 @@
 
 # Basics of postgresql
 
-Making and inserting into tables
+- Making and inserting into tables
 
-Creating primary keys,etc
+- Creating primary keys,etc
 
 - Drop, Update, Delete and various other commands
 
