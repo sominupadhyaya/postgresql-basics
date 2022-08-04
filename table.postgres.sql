@@ -62,4 +62,4 @@ rows at once. Here, we just inserted 4 rows at once
 */
 
 
---check the query.postgres file from now 
+--check the select.postgres file from now 
