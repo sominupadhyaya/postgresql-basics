@@ -78,3 +78,6 @@ every row that is:
 -- where age is not null;
 
 --returns all data
+
+
+--check select.postgres.sql
